@@ -1,0 +1,13 @@
+{
+  "name": "Sejarah Tingkatan 4 – Kuiz",
+  "short_name": "Sejarah T4",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#dde3f2",
+  "theme_color": "#dde3f2",
+  "icons": [
+    {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
